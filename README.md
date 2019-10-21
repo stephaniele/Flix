@@ -6,6 +6,26 @@ Submitted by: **Stephanie Le**
 
 Time spent: **3** hours spent in total
 
+## User Stories
+
+The following **required** functionality is complete:
+
+* [x] User sees an app icon on the home screen and a styled launch screen.
+* [x] User can view and scroll through a list of movies now playing in theaters.
+* [x] User can view the movie posters in each row.
+
+
+The following **optional** features are implemented:
+
+* [ ] User can view the app on various device sizes and orientations.
+* [ ] Run your app on a real device.
+
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
+
 
 ## My App Walkthrough with gif
 <img src='http://g.recordit.co/BtdYaIsPBD.gif' />
