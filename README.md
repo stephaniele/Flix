@@ -16,4 +16,3 @@
 <img src='http://g.recordit.co/dtxIweRMBu.gif' />
 
 ### Notes
-Describe any challenges encountered while building the app.
