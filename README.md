@@ -13,7 +13,7 @@
 
 ### App Walkthough GIF
 
-<img src="http://g.recordit.co/lOisT3X8za.gif" width=250><br>
+<img src="https://recordit.co/lOisT3X8za" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
