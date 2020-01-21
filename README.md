@@ -3,6 +3,8 @@
 
 ### User Stories
 
+The following functionalities are completed:
+
 - [x] User sees an app icon on the home screen and a styled launch screen.
 - [x] User can view and scroll through a list of movies now playing in theaters.
 - [x] User can view the movie poster image for each movie.
@@ -13,4 +15,3 @@
 
 <img src='http://g.recordit.co/dtxIweRMBu.gif' />
 
-### Notes
